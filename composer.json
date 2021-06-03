@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/countries",
+    "name": "sairum123/countries",
 
     "description": "PHP Countries and Currencies",
 
@@ -23,7 +23,13 @@
             "name": "Antonio Carlos Ribeiro",
             "email": "acr@antoniocarlosribeiro.com",
             "role": "Creator"
+        },
+        {
+            "name": "Sairum Hussain",
+            "email": "sairum.h@gmail.com",
+            "role": "Contributor"
         }
+
     ],
 
     "require": {
